@@ -1,0 +1,493 @@
+列出磁碟區 W2K-SYS 的資料夾 PATH
+磁碟區序列號碼為 0006FE80 D0E9:74DB
+C:.
+├─各類再生資源-技術與應用
+│  ├─廢液資源再生
+│  │  └─美加
+│  │      ├─US-Fact Sheet Metal Recovery Technologies for the Metal Finishing Industry.files
+│  │      └─US-Kinetico Engineered Systems (MICRO Buyers Guide).files
+│  │          └─iframe.files
+│  ├─有機資源再生
+│  │  ├─其他有機廢棄物
+│  │  │  └─US-Best Practices in Tire and Rubber Recycling.files
+│  │  ├─厭氧發酵
+│  │  │  ├─其他
+│  │  │  │  └─Australia-Methane Capture and Use Part A,B,C.files
+│  │  │  ├─日本
+│  │  │  ├─歐盟
+│  │  │  │  ├─EU-Regulations in Animal by-products not intended for human consumption.files
+│  │  │  │  ├─EU-Waste Management Options and Climate Change.files
+│  │  │  │  ├─Germany- Biogas Digest Global environmental benefits.files
+│  │  │  │  ├─UK-European Commission's Discussion Document on a Biowaste Directive.files
+│  │  │  │  ├─UK-Integrated Biosystems in Zero Emissions Applications.files
+│  │  │  │  ├─UK-Recommendations for further work.files
+│  │  │  │  ├─UK-Regulations for Biogas Applications.files
+│  │  │  │  ├─UK-Using Anaerobic Digestion-Case Study Conclusions.files
+│  │  │  │  └─UK-Validation using the Valorga plant at Tilburg, Netherlands.files
+│  │  │  └─美加
+│  │  │      ├─Canada-Composting Council-The Toronto Case.files
+│  │  │      ├─US-Oregon Renewable Resources Biogas Technology.files
+│  │  │      ├─US-The AgSTAR Program.files
+│  │  │      └─US-Wisconsin AD Site.files
+│  │  ├─堆肥
+│  │  │  ├─其他
+│  │  │  ├─歐盟
+│  │  │  └─美加
+│  │  │      ├─Canada-Agronomic utilization of residuals.files
+│  │  │      ├─Korea-Quality Control For Commercial Compost.files
+│  │  │      └─US-FIRE PREVENTION AT COMPOSTING, MULCH FACILITIES.files
+│  │  ├─廚餘、食品廢棄物
+│  │  │  ├─其他
+│  │  │  │  ├─Korea-Public Campaign to Reduce Food Waste Gains Momentum.files
+│  │  │  │  ├─New Zealand-Feeding your pigs 2005.files
+│  │  │  │  │  ├─xl(1).files
+│  │  │  │  │  ├─xl(2).files
+│  │  │  │  │  ├─xl(3).files
+│  │  │  │  │  ├─xl(4).files
+│  │  │  │  │  ├─xl(5).files
+│  │  │  │  │  └─xl.files
+│  │  │  │  ├─The Korea -Food Waste Emerges as Headache.files
+│  │  │  │  └─行政院環境保護署-廚餘回收再利用.files
+│  │  │  ├─日本
+│  │  │  ├─歐盟
+│  │  │  │  ├─Danmark-Food waste from industrial kitchens from pig feed to biogas.files
+│  │  │  │  ├─EU Summary of Legislation-Animal by-products not intended for human consumption.files
+│  │  │  │  └─UK 2006-Animal by-products regulations - Envirowise.files
+│  │  │  └─美加
+│  │  │      └─US-Feeding Food Wastes to Swine.files
+│  │  └─廢塑膠
+│  │      └─PVC.files
+│  ├─灰渣、營建資源再生
+│  │  ├─其他
+│  │  │  └─Saudi Arabia 2005-Utilization of Steel Slag Aggregate for Road Bases.files
+│  │  ├─日本
+│  │  ├─歐盟
+│  │  │  ├─Danmark 2003-Waste Indicators.files
+│  │  │  │  ├─adresse.files
+│  │  │  │  ├─andresprog.files
+│  │  │  │  ├─helepubl_eng.files
+│  │  │  │  ├─menuleft.files
+│  │  │  │  ├─menuutils.files
+│  │  │  │  └─topbanner.files
+│  │  │  ├─Danmark 2004-Better roads at a lower price.files
+│  │  │  ├─Netherlands-European Developments on Leaching Behavior of Alternative Materials in Construction Appli
+│  │  │  │  ├─outline.files
+│  │  │  │  └─slide0050.files
+│  │  │  ├─Sweden 2001-Experiences of Crushed Concrete in Roads.files
+│  │  │  ├─Sweden-THE USE OF ALTERNATIVE MATERIALS IN ROAD CONSTRUCTION.files
+│  │  │  │  ├─outline.files
+│  │  │  │  └─slide0023.files
+│  │  │  ├─UK 2000-Recycling Bitumen Materials in Hot Mix Processes.files
+│  │  │  ├─UK 2000-Secondary Aggregates.files
+│  │  │  ├─UK 2002-Industrial By-products in Road Construction.files
+│  │  │  ├─UK 2003-The Sustainable Maintenance of Roads using Innovative Cold Recycling Techniques (SMART).files
+│  │  │  └─UK 2005-SUMMARY OF RESPONSES TO THE CONSULTATION ON Aggregate Levy.files
+│  │  └─美加
+│  │      ├─US 2004-EPA Procurement Guideline IV for Procurement of Products Containing Recovered Materials.files
+│  │      └─US-Scanning European Advances in the Use of Recycled Materials in Highway Construction.files
+│  ├─物品容器資源再生
+│  │  ├─其他
+│  │  │  └─基管會資源回收網.files
+│  │  ├─日本
+│  │  ├─歐盟
+│  │  │  └─Italy 2004-Collection of batteries and used cell phones__.files
+│  │  └─美加
+│  │      ├─US- PC Vendors Pursue Recycling Program.files
+│  │      │  ├─article_ch=soho_pc=1571_c=1593_c=1592_c=1577_c=1570_c=1557_pos=leader_tile=1_sz=728x90_dcopt=ist_ord2
+│  │      │  └─superstitial_pos=unicast_sz=1x1_tile=9_ord=100739734.files
+│  │      ├─US-California to Step Up CRT, Cell-Phone Recycling.files
+│  │      │  ├─desktopnews_dcopt=ist_ptile=1_sz=728x90_ord=6422497035.files
+│  │      │  ├─desktopnews_sz=336x280_ord=6422497035.files
+│  │      │  └─desktopnews_sz=350x50_ord=6422497035.files
+│  │      └─US-New Study on Cell Phones.files
+│  ├─都市垃圾減量、資源化、最終處置
+│  │  ├─其他
+│  │  ├─日本
+│  │  ├─歐盟
+│  │  ├─焚化
+│  │  ├─美加
+│  │  └─資源化
+│  └─金屬資源再生
+│      ├─其他
+│      └─廢乾電池資源化
+│          ├─其他
+│          ├─日本
+│          ├─歐盟
+│          └─美加
+├─國際性議題
+│  ├─工業生態化、綠色技術
+│  │  ├─其他
+│  │  │  ├─Asian Developemnt Bank- Eco-Industrial Park Handbook.files
+│  │  │  └─UNEP-Industrial estats - case studies.files
+│  │  ├─日本
+│  │  │  └─Japan-Industrial Clustering- Combining Different Sectors Towards Zero Emissions.files
+│  │  ├─歐盟
+│  │  │  └─Finland-Helsinki Symposium on Industrial Ecology and Material Flows.files
+│  │  └─美加
+│  │      ├─Canad-Benefits of Eco-Industrial Networking.files
+│  │      ├─Canad-Eco-Industrial Networks.files
+│  │      ├─US-A Planner's Overview of Eco-Industrial Development - 2000 APA Proceedings.files
+│  │      ├─US-Defining Eco-Industrial Park.files
+│  │      ├─US-Eco-Industrial Case Studies.files
+│  │      ├─US-Eco-Industrial Networks-Devising Practical Tools for Success.files
+│  │      └─US-Websites for Eco-Industrial Projects.files
+│  ├─擴大生產者責任
+│  │  ├─其他
+│  │  ├─日本
+│  │  ├─歐盟
+│  │  └─美加
+│  └─越界輸送、貿易
+│      ├─其他
+│      ├─日本
+│      ├─歐盟
+│      └─美加
+├─土壤
+│  ├─Canada Soil-Appendix B Case Studies.files
+│  ├─Chromium Pollution and Bioremediation.files
+│  ├─E1527-05 Standard Practice for Environmental Site Assessments Phase I Environmental Site Assessment P
+│  ├─E1528-06 Standard Practice for Limited Environmental Due Diligence Transaction Screen Process.files
+│  ├─E1903-97(2002) Standard Guide for Environmental Site Assessments Phase II Environmental Site Assessme
+│  ├─Environmental Phase 1.files
+│  ├─EPA NE GE-Housatonic River Site - GE Plant Area - Reports.files
+│  ├─EPA Term-Soil.files
+│  ├─In Situ Reduction of Chromium(VI) in Heavily Contaminated Soils through Organic Carbon Amendment -- T
+│  ├─IPCS 1988-Environmental Health Criteria 61-Chromium.files
+│  ├─Part 201Generic Cleanup Criteria-Part 213 Risk Based Cleanup Levels - Google 搜尋.files
+│  ├─Soil Screening Guidance - EnviroTools_org.files
+│  ├─Soil Screening Guidance Technical Background Document Table of Contents.files
+│  ├─Soil Screening Guidance Technical Background Document, Superfund, US EPA.files
+│  ├─US PRGs-Equations for Agricultural Land Use.files
+│  ├─US PRGs-Equations for Excavation Land Use.files
+│  ├─US PRGs-Equations for Industrial Land Use.files
+│  ├─US PRGs-Equations for Recreational Land Use.files
+│  ├─US PRGS-Equations for Residential Land Use.files
+│  ├─ZINC Nutrition Center.files
+│  │  └─CachedPageMain.files
+│  ├─其他
+│  │  └─Basel Convention
+│  ├─加拿大
+│  ├─土係~1.FIL
+│  ├─德國
+│  │  ├─Federal Environmental Agency Berlin-Germany.files
+│  │  ├─German Act
+│  │  ├─German Soil
+│  │  │  ├─flow chart - contaminated land management.files
+│  │  │  └─information about contaminated land.files
+│  │  ├─Waste
+│  │  └─德國FEM資料
+│  │      ├─cleaner production germany-clear air.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienUmwelttechnikLuftreinhaltung.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-combustion.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienEnergietechnikVerbrennungstechnik.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-galvanotechnics.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienGalvanotechnik.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-noise.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienUmwelttechnikLaermminderung.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-recycling.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienUmwelttechnikRecyclingtechnik.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-sewage.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienUmwelttechnikAbwassertechnik.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-solar energy.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienEnergietechnikSolartechnik.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany-wind power.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienEnergietechnikWindkraft.files
+│  │      │  └─Top.files
+│  │      ├─cleaner production germany.files
+│  │      │  ├─Bottom_neu.files
+│  │      │  ├─index_techno.files
+│  │      │  │  ├─Navigator_Technologien.files
+│  │      │  │  └─TechnologienUmwelttechnikEntsorgungstechnik.files
+│  │      │  └─Top.files
+│  │      ├─Environmental Report 1996 (English Summary Part I).files
+│  │      └─German Act-Policy
+│  │          └─The Federal Environment Ministry.files
+│  │              ├─b_halftime.files
+│  │              ├─headdownload.files
+│  │              ├─nav1024download.files
+│  │              └─nav1024engl.files
+│  ├─日本
+│  ├─歐盟
+│  │  └─EPR
+│  ├─澳洲
+│  ├─環境保護署 - 受污染土地勘察及整治指引.files
+│  ├─環境省~1.FIL
+│  ├─美國
+│  │  ├─CFR Title 40 Protection of Environment.files
+│  │  ├─Chemicals
+│  │  ├─EPA-Compliance and Enforcement.files
+│  │  ├─Risk
+│  │  ├─Slag
+│  │  ├─Sludge
+│  │  ├─Soil
+│  │  ├─Toxics Release Inventory (TRI) Program.files
+│  │  ├─Waste
+│  │  └─Water
+│  ├─英國
+│  ├─荷蘭
+│  │  ├─Dutch CO2 Reduction
+│  │  └─Dutch Soil Regulations
+│  └─香港環境保護署 - 指引與參考資料.files
+├─戴奧辛
+│  ├─Cancer Risk
+│  │  └─40 CFR PART 51.files
+│  ├─Case Study I.files
+│  ├─Choking us to death - air pollution and its effects on bicycle couriers.files
+│  ├─Destruction
+│  ├─dioxin monitoring system AMESA.files
+│  ├─Dioxins in ambient air in Australia - Technical report No_ 4 - Executive Summary.files
+│  ├─EAF, Sintering, BF
+│  ├─EAF及鋼聯
+│  │  ├─GLOSSARY-Cancer Burden.files
+│  │  ├─Taipei Times - archives.files
+│  │  ├─台農委會：土壤最可能是毒鴨蛋的污染源.files
+│  │  ├─看守台灣 電子報.files
+│  │  ├─線西7鴨農血脂戴奧辛含量高.files
+│  │  ├─苦勞網剪報資料庫.files
+│  │  ├─衛生署.files
+│  │  ├─農場趴趴走.files
+│  │  ├─鋼聯戴奧辛.files
+│  │  ├─閱報小秘書-蛋，一天勿吃超過一顆.files
+│  │  ├─飼糧中添加魚油對鴨蛋中ω-3多元不飽和脂肪酸含量之影響.files
+│  │  └─鴨隻飼養管理及生產成本.files
+│  ├─Environmental Sustainability Report 2005 Environment  KOBE STEEL, LTD.files
+│  ├─Formation
+│  ├─Germany-Dioxins in the Environment.files
+│  ├─Global Pollutant Release Agreement Finalized.files
+│  ├─Guidelines and Standards
+│  ├─Modelling
+│  ├─Other Sectors
+│  ├─PRTR - Australia and other Countries.files
+│  ├─PRTR in Germany.files
+│  ├─Santa Babra-Hot Spots Act.files
+│  ├─SCADPlus European EU Pollutant Release and Transfer Register (PRTR).files
+│  ├─South Coast AQMD.files
+│  ├─Stelco DXNs.files
+│  ├─The Stelco Sinter Plant.files
+│  ├─Tokyo DXNs.files
+│  ├─UNEP Chemicals Newsletter PRTR.files
+│  ├─US-Use of Surrogate Compounds as Indicators of PCDD F Concentrations.files
+│  ├─VAI
+│  │  └─dioxin-vai.files
+│  │      └─km.files
+│  │          └─foldermenu.files
+│  │              └─a.files
+│  ├─WHO Experts Re-evaluate Health Risks From Dioxins.files
+│  ├─Wollongong steelworks pumps out dangerous dioxins Report confirms Workers Inquiry findings.files
+│  ├─中小型廢棄物焚化爐戴奧辛管制及排放標準.files
+│  ├─取樣與檢測
+│  │  ├─Amesa.files
+│  │  ├─Germany- New Guidline for Measuring Dioxines.files
+│  │  ├─Method 23 Dioxin-Furan (D-F) Sampling Page.files
+│  │  ├─排放管~1.FIL
+│  │  ├─排放管~2.FIL
+│  │  ├─環境空氣中戴奧辛檢測方法研究.files
+│  │  ├─行政院環境保護署環境檢驗所 - 檢測技術交流.files
+│  │  └─附錄二~1.FIL
+│  ├─基本
+│  │  ├─Australia Dioxins emissions from motor vehicles in Australia - Technical report No_ 2 - Dioxin emissi
+│  │  ├─WHO  Dioxins and their effects on human health.files
+│  │  └─WHO Polychlorinated dibenzo-p-dioxins and dibenzofurans (EHC 88, 1989).files
+│  ├─大氣環境中之戴奧辛現況探討.files
+│  ├─失落的記憶～台鹼安順廠.files
+│  │  └─BlueScope Steel - Sinter Plant Project.files
+│  ├─張書豪-新竹科學園區空氣污染物排放現況調查.files
+│  ├─我國管制標準
+│  ├─戴奧辛減量專案
+│  │  └─法規
+│  ├─指紋與判別
+│  ├─日本戴奧辛相關資料目錄－日本環境省提供／行政院環保署毒管處整理　　2006_01_23.files
+│  └─背景值及Inventory
+│      ├─US FDA PCDD-PCDF Exposure Estimates.files
+│      ├─戴奧辛背景值.files
+│      │  └─abannerhospital.files
+│      └─附檔2-US FDA PCDD-PCDF Exposure Estimates.files
+├─東南亞鋼鐵協會環保Workshop 2006
+├─東南亞鋼鐵協會環安衛 Workshop-2007
+├─溫室氣體
+│  ├─A new Energy Efficiency 21 tool for climate change mitigation-2.files
+│  ├─Appliances & Commercial Equipment Standards Laws and Regulations.files
+│  ├─BioMatNet Item Altener - European Biomass CHP in Practice (BIO-CHP).files
+│  ├─BioMatNet Item ALTENER - NTB Liquid Biofuels Network - The European Network for removing non-technica
+│  ├─canada climate change handbook
+│  │  ├─images
+│  │  └─pdf
+│  ├─ECCJ - Top Runner Program REVISED EDITION-OCT 2006- Chapter 2 - 2_4 Results of Introducing the Top Ru
+│  ├─Energy - Intelligent Energy Europe.files
+│  ├─Environmental Sustainability Index.files
+│  ├─EREC-solar.files
+│  ├─EU - Combined Heat and Power.files
+│  ├─EU - Energy Demand Management.files
+│  ├─EU 2003-Commission proposes new rules to ensure that all Member States save each year at least 1% mor
+│  ├─EU 2005-Agreement on energy efficiency.files
+│  ├─EU 2006-Energy efficiency updates.files
+│  ├─EU 2006-EU Directive on Energy End-use Efficiency and Energy Services.files
+│  ├─EU 2007-Energy end-use efficiency and energy services.files
+│  ├─EU Directive - The Energy Performance of Buildings.files
+│  ├─EU Energy Policy.files
+│  ├─EU renewable energy policy.files
+│  ├─EU-Energy Demand Management.files
+│  ├─EU-Energy Labeling of Domestic Appliancss.files
+│  ├─EU-New and Renewable Energies.files
+│  ├─EurActiv_com - EU renewable energy policy  EU - European Information on Energy.files
+│  ├─European Commission - Energy - ACTION PLAN FOR ENERGY EFFICIENCY.files
+│  ├─European Commission - Energy - GREEN PAPER ENERGY.files
+│  ├─European Developments in Renewable Energy.files
+│  ├─Finland-environment - Policy instruments.files
+│  ├─IEA Renewable Energy-regional scenarios.files
+│  ├─Ireland 2002-Energy Act.files
+│  ├─Japan - Top Runner Program REVISED EDITION-OCT 2006- Table of Contents.files
+│  ├─Japan 2006-Top Runner Program.files
+│  ├─Japan's policy to deal with global warming.files
+│  ├─July 25, 2002 Restructuring Taxes to Protect the Environment.files
+│  ├─MIT Nanoengineered concrete could cut CO2 emissions.files
+│  ├─Moving New Zealand Towards a Sustainable Energy Future.files
+│  ├─Overview-Energy - Intelligent Energy Europe.files
+│  ├─POLICY~1.FIL
+│  ├─Renewable electricity (CSI 031) - Apr 2006 Assessment — EEA.files
+│  ├─Renewables the Core of Intelligent Energy for Europe.files
+│  ├─Report Intelligent Energy - Europe (IEE) - ALTENER Projects (Renewable energy sources) on the ManagEn
+│  ├─SUSTAINABLE ENERGY ACT, 2002.files
+│  ├─Sweden-A Sustainable Energy Supply.files
+│  ├─Sweden-Environmental protection and environmental and energy technology.files
+│  ├─Swissland 2005-CO2 Mitigation Potential by Increasing Natural Gas Use.files.files
+│  ├─Twenty In Ten Strengthening America's Energy Security.files
+│  ├─UK 2003-EU Directive on the Energy Performance of Buildings.files
+│  ├─UK 2006-New climate change programme sets out UK agenda.files
+│  ├─UK 2006-New measures to tackle climate change.files
+│  ├─US 2007-Energy for America's Future.files
+│  ├─US 2007-Executive Order Strengthening Federal Environmental, Energy, and Transportation Management.fi
+│  ├─US-Federal Energy Management Program Energy Policy Act of 2005.files
+│  ├─www_climate-strategies_org - EU Emissions Trading.files
+│  ├─全球暖化‧瑞典環保城市的省思.files
+│  └─洲自然~1.FIL
+│      └─DoYouKnow.files
+├─濬港淤泥
+│  ├─Australia 2002-National Ocean Disposal Guidelines for Dredged Material Contents.files
+│  ├─National Ocean Disposal Guidelines for Dredged Material Appendix Four - Action List.files
+│  └─Waste Assessment for London Convention.files
+├─產業之資源化技術與應用
+│  ├─其他產業資源化
+│  ├─水泥業
+│  │  ├─其他
+│  │  ├─日本
+│  │  ├─歐盟
+│  │  └─美加
+│  ├─皮革業資源化
+│  ├─資源化產業
+│  └─鋼鐵業資源化
+│      └─海洋牧場
+├─能源效率
+│  ├─Building Technologies Program Appliances and Commercial Equipment Standards.files
+│  ├─California-Appliance Efficiency & Appliance Regulations.files
+│  ├─Canada  2007-Energy Efficiency Regulations.files
+│  ├─Canada-Energy Efficiency Regulations, [S_O_R_-94-651].files
+│  ├─Canada-Energy Efficiency Regulations.files
+│  ├─EERE News DOE Completes 200 Industrial Energy Savings Assessments.files
+│  ├─EU 2003-Commission proposes new rules to ensure that all Member States save each year at least 1% mor
+│  ├─EU 2005-Agreement on energy efficiency.files
+│  ├─EU 2006-Energy efficiency updates.files
+│  ├─EU 2006-Energy efficiency-energy performance of buildings.files
+│  ├─EU Energy efficiency towards a strategy for the rational use of energy.files
+│  ├─EU-Energy efficiency-energy performance of buildings.files
+│  └─The Energy Performance in Buildings directive and Just Energy.files
+├─能源研究與政策
+├─能源稅
+│  ├─E U R O F E R Position Papers.files
+│  ├─Energy Taxes - Social and Economic Policy - Global Policy Forum.files
+│  ├─EU 2003-Commission proposes new rules to ensure that all Member States save each year at least 1% mor
+│  ├─EU 2005-Agreement on energy efficiency.files
+│  ├─EU 2006-Energy efficiency updates.files
+│  ├─EU-New Energy Tax Directive.files
+│  ├─EUR-Lex - Recherche simple.files
+│  ├─Impacts of the Proposed Climate Changed Treaty on Various Industries.files
+│  ├─OECD 2004-Economic Instruments database-2.files
+│  │  └─LogoPage.files
+│  ├─OECD 2004-Economic Instruments database-3.files
+│  │  └─LogoPage.files
+│  ├─OECD 2004-Economic Instruments database.files
+│  │  └─LogoPage.files
+│  ├─OECD-Economic Instruments database.files
+│  │  ├─LogoPage.files
+│  │  └─TaxInfo.files
+│  └─UK 2004-EEF Climate Change Levy - Tax Reduction.files
+├─資源再生政策、制度
+│  ├─其他
+│  │  └─Canada - KOREA'S SOLID WASTE MANAGEMENT MARKET.files
+│  ├─日本
+│  │  └─Japan- Recycling Policy.files
+│  │      ├─c_heder.files
+│  │      └─c_main_environment.files
+│  ├─歐盟
+│  │  └─Netherland-Cleaner Technology Policy.files
+│  └─美加
+│      └─Canada 2006-Waste Management.files
+├─資源再生法規
+│  ├─國外資源再生法規
+│  │  ├─OECD國家
+│  │  │  └─EPA Federal Register Request for Information Concerning Transfrontier Movements of Wastes Destined fo
+│  │  ├─其他
+│  │  ├─巴塞爾公約及相關
+│  │  │  ├─Basel Action Network (BAN) commenting OECD decision.files
+│  │  │  └─Basel Convention Implementation Tools.files
+│  │  ├─日本
+│  │  │  └─Japan-The Basic Environemntal Law.files
+│  │  ├─歐盟
+│  │  ├─相關資料與說明
+│  │  │  ├─日本
+│  │  │  ├─歐盟
+│  │  │  └─美加
+│  │  │      ├─Canada 2006-Waste Management.files
+│  │  │      └─CEPA Environmental Registry - Home page.files
+│  │  └─美加
+│  │      └─Canada 2005-Canadian Environmental Acts,.files
+│  ├─我國兩法合一
+│  └─環境稅、環境費
+└─資源化實務問題及供應商
+    ├─問題分析與統計資料
+    │  ├─其他
+    │  │  └─Korea- Solid Waste Treatment Market.files
+    │  ├─日本
+    │  │  └─Japan-Recycling Rates(1986-2004).files
+    │  ├─歐盟
+    │  └─美加
+    │      └─US-Resourceful Waste Management Guide - Reduce, Reuse, Recycle.files
+    └─設備、技術供應商
+        ├─其他
+        ├─日本
+        │  └─日本-PLASMA TYPE INCINERATED ASH FUSION SYSTEM.files
+        ├─歐盟
+        │  └─UK-Waste & Recycling Services.files
+        └─美加
+            ├─US Filter.files
+            └─US-Environmental Recycling  Services.files
